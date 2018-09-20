@@ -19,7 +19,7 @@ public class Main {
 
         for (int i = 0; i < mass.length; i++) {
             if ( mass[i].getVozrast() < 40)
-              mass[i];
+              mass[i].outInfo();
         }
 
 
